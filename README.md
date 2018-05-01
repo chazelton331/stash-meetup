@@ -9,3 +9,5 @@ Hola code friendz! Thanks for checking out a Stash Meetup! We are v excited to h
 ## Getting Started 
 * Fork the repo
 * Checkout one of the existing projects or start your own!
+
+Small change
